@@ -2,11 +2,9 @@
 sidebar: auto
 ---
 
-# 知社 API 文档
+# 社团管理系统 API 文档
 
 本项目前后端接口规范和接口文档。
-
-[![Build Status](https://travis-ci.com/EyesCMS/zhishe-cms-doc.svg?branch=master)](https://travis-ci.com/EyesCMS/zhishe-cms-doc)
 
 > 本文的正在持续更新中~
 
